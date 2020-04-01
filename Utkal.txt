@@ -1,0 +1,5 @@
+'Jai Jagannath', 'Puri', 'Konark', 'Satapada', 'Chilika', 'Bhubaneswar', 'Cuttack Dahi bara', 'Chena Jhilli', 'Rasogolla', 'Pakhala', 'ChandraBhaga',
+              'Daringbadi', 'Berahampur', 'gopalpur', 'Hirakud', 'Mandira malini', 'Puri', 'Tarini', 'Sana ghagara', 'Mo_ODISHA', 'Bana bhoji', 'Baisakhi', 'Dolphine',
+              'Paradeep', 'Paika akhada', 'Barunei', 'Mudhi mansha', 'Thuka puri', 'Chappan Bhoga', 'Bada Deula', 'Ratha Jatra', 'Seetala Sasthi', 'Bara Ghuguni',
+               'KhandaGiri', 'Utkala', 'UdayaGiri', 'Odishi', 'Khiri chora Gopinath', 'Atri', 'Jaun Bana', 'Bali Hirakud', 'Smart_City', 'Rupa tarakasi Kama' , 'Nandan Kanan',
+              'Paika Akhada', 'ApNa Mane KhUsHI tAH..??'
